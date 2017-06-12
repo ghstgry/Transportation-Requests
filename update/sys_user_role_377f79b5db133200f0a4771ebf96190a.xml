@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update table="sys_user_role">
     <sys_user_role action="INSERT_OR_UPDATE">
-        <assignable_by/>
+        <assignable_by display_value="x_123255_transport.Administrator" name="x_123255_transport.Administrator">793fb5b5db133200f0a4771ebf9619d5</assignable_by>
         <can_delegate>true</can_delegate>
-        <description/>
+        <description>Manager level access to handle the day-to-day management of the application</description>
         <elevated_privilege>false</elevated_privilege>
         <grantable>true</grantable>
         <includes_roles/>
-        <name>x_123255_transport.User</name>
-        <suffix>User</suffix>
+        <name>x_123255_transport.Manager</name>
+        <suffix>Manager</suffix>
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-06-12 15:06:35</sys_created_on>
+        <sys_created_on>2017-06-12 15:13:45</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
-        <sys_id>dffdf975db133200f0a4771ebf96198e</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>x_123255_transport.User</sys_name>
+        <sys_id>377f79b5db133200f0a4771ebf96190a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_123255_transport.Manager</sys_name>
         <sys_package display_value="Transportation Requests" source="x_123255_transport">1bfdb135db133200f0a4771ebf9619e1</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Transportation Requests">1bfdb135db133200f0a4771ebf9619e1</sys_scope>
-        <sys_update_name>sys_user_role_dffdf975db133200f0a4771ebf96198e</sys_update_name>
+        <sys_update_name>sys_user_role_377f79b5db133200f0a4771ebf96190a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-06-12 15:15:22</sys_updated_on>
+        <sys_updated_on>2017-06-12 15:13:45</sys_updated_on>
     </sys_user_role>
 </record_update>

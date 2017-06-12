@@ -28,7 +28,7 @@
         <sys_updated_on>2017-06-12 15:06:35</sys_updated_on>
         <template/>
         <trackable>true</trackable>
-        <user_role display_value="x_123255_transport.user" name="x_123255_transport.user">dffdf975db133200f0a4771ebf96198e</user_role>
+        <user_role display_value="x_123255_transport.User" name="x_123255_transport.User">dffdf975db133200f0a4771ebf96198e</user_role>
         <vendor/>
         <vendor_prefix/>
         <version>1.0.0</version>
