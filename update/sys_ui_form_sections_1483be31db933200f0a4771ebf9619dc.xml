@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="1483be31db933200f0a4771ebf9619dc" sys_domain="global" table="x_123255_transport_transportation_requests" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-12 19:00:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5883be31db933200f0a4771ebf9619de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_123255_transport_transportation_requests" name="x_123255_transport_transportation_requests" sys_domain="global" view="Default view">1483be31db933200f0a4771ebf9619dc</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_123255_transport_transportation_requests" sys_domain="global" view="Default view">c632febddb533200f0a4771ebf9619d1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-12 19:00:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-12 19:00:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1483be31db933200f0a4771ebf9619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_123255_transport_transportation_requests" name="x_123255_transport_transportation_requests" sys_domain="global" view="Default view">1483be31db933200f0a4771ebf9619dc</sys_ui_form>
+            <sys_ui_section caption="Administration" display_value="Administration" name="x_123255_transport_transportation_requests" sys_domain="global" view="Default view">1883be31db933200f0a4771ebf9619db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-12 19:00:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_123255_transport_transportation_requests</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-12 19:00:23</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1483be31db933200f0a4771ebf9619dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_123255_transport_transportation_requests</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Transportation Requests" source="x_123255_transport">1bfdb135db133200f0a4771ebf9619e1</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Transportation Requests">1bfdb135db133200f0a4771ebf9619e1</sys_scope>
+            <sys_update_name>sys_ui_form_sections_1483be31db933200f0a4771ebf9619dc</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-12 19:00:23</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

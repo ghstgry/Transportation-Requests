@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="Vehicles" max_length="40" name="x_123255_transport_vehicles" type="collection">
-        <element label="Capacity" max_length="40" name="u_capacity" type="float"/>
+        <element label="Passenger Capacity" mandatory="true" max_length="2" name="pass_capacity" type="float"/>
         <element label="Last Serviced" max_length="40" name="u_lastserviced" type="glide_date"/>
-        <element attributes="edge_encryption_enabled=true" label="Make" max_length="40" name="u_make" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="u_name" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Model" max_length="40" name="u_string_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Make" mandatory="true" max_length="40" name="u_make" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" mandatory="true" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Model" mandatory="true" max_length="40" name="u_string_2" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="License Plate" max_length="40" name="u_string_3" type="string"/>
+        <element label="Wheelchair Capacity" mandatory="true" max_length="2" name="wc_capacity" type="float"/>
     </element>
 </database>

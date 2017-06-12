@@ -5,13 +5,13 @@
             <element>u_name</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-12 17:23:57</sys_created_on>
-            <sys_id>236dd635db533200f0a4771ebf961996</sys_id>
+            <sys_created_on>2017-06-12 17:51:10</sys_created_on>
+            <sys_id>16a3ee39db533200f0a4771ebf961935</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_123255_transport_vehicles" sys_domain="global" view="Default view">e5fbd2f1db533200f0a4771ebf961992</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-12 17:23:57</sys_updated_on>
+            <sys_updated_on>2017-06-12 17:51:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>u_make</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-12 17:23:57</sys_created_on>
-            <sys_id>a36dd635db533200f0a4771ebf961996</sys_id>
+            <sys_created_on>2017-06-12 17:51:10</sys_created_on>
+            <sys_id>96a3ee39db533200f0a4771ebf961935</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_123255_transport_vehicles" sys_domain="global" view="Default view">e5fbd2f1db533200f0a4771ebf961992</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-12 17:23:57</sys_updated_on>
+            <sys_updated_on>2017-06-12 17:51:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>u_string_2</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-12 17:23:57</sys_created_on>
-            <sys_id>276dd635db533200f0a4771ebf961996</sys_id>
+            <sys_created_on>2017-06-12 17:51:10</sys_created_on>
+            <sys_id>1aa3ee39db533200f0a4771ebf961935</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_123255_transport_vehicles" sys_domain="global" view="Default view">e5fbd2f1db533200f0a4771ebf961992</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-12 17:23:57</sys_updated_on>
+            <sys_updated_on>2017-06-12 17:51:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,41 +47,69 @@
             <element>u_string_3</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-12 17:23:57</sys_created_on>
-            <sys_id>a76dd635db533200f0a4771ebf961996</sys_id>
+            <sys_created_on>2017-06-12 17:51:10</sys_created_on>
+            <sys_id>9aa3ee39db533200f0a4771ebf961935</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_123255_transport_vehicles" sys_domain="global" view="Default view">e5fbd2f1db533200f0a4771ebf961992</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-12 17:23:57</sys_updated_on>
+            <sys_updated_on>2017-06-12 17:51:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_capacity</element>
+            <element>.split</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-12 17:23:57</sys_created_on>
-            <sys_id>2b6dd635db533200f0a4771ebf961996</sys_id>
+            <sys_created_on>2017-06-12 17:51:10</sys_created_on>
+            <sys_id>1ea3ee39db533200f0a4771ebf961935</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_123255_transport_vehicles" sys_domain="global" view="Default view">e5fbd2f1db533200f0a4771ebf961992</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-12 17:23:57</sys_updated_on>
+            <sys_updated_on>2017-06-12 17:51:10</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>wc_capacity</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-12 17:51:10</sys_created_on>
+            <sys_id>9ea3ee39db533200f0a4771ebf961935</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_123255_transport_vehicles" sys_domain="global" view="Default view">e5fbd2f1db533200f0a4771ebf961992</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-12 17:51:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pass_capacity</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-12 17:51:10</sys_created_on>
+            <sys_id>12a3ee39db533200f0a4771ebf961936</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_123255_transport_vehicles" sys_domain="global" view="Default view">e5fbd2f1db533200f0a4771ebf961992</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-12 17:51:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_lastserviced</element>
-            <position>5</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-12 17:23:57</sys_created_on>
-            <sys_id>ab6dd635db533200f0a4771ebf961996</sys_id>
+            <sys_created_on>2017-06-12 17:51:10</sys_created_on>
+            <sys_id>92a3ee39db533200f0a4771ebf961936</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_123255_transport_vehicles" sys_domain="global" view="Default view">e5fbd2f1db533200f0a4771ebf961992</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-12 17:23:57</sys_updated_on>
+            <sys_updated_on>2017-06-12 17:51:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
